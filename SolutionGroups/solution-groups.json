@@ -1,8 +1,12 @@
 {
-    "MyDemoPackage": {
-        "Configurations": {},
-        "Solutions": [
-            "ZavaGlobalServiceDesk_58934978"
-        ]
+  "ZavaGlobalServiceDesk": {
+    "Solutions": [
+      "ZavaGlobalServiceDesk_58934978"
+    ],
+    "Configurations": {
+      "QA": { "Environment": "" },
+      "Stage": { "Environment": "" },
+      "Production": { "Environment": "" }
     }
+  }
 }
