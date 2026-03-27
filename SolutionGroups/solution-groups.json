@@ -1,7 +1,9 @@
 {
   "ZavaGlobalServiceDesk": {
     "Solutions": [
-      "ZavaGlobalServiceDesk_58934978"
+      "ZavaGlobalServiceDesk_58934978",
+      "ZavaGlobalServiceDesk_58934978-2"
+      "ZavaGlobalServiceDesk_58934978-3"
     ],
     "Configurations": {
       "QA": { "Environment": "" },
